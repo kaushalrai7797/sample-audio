@@ -1,0 +1,41 @@
+INFO:root:Output dir: /home/rajivratn/kaushal/output_dir/
+DEBUG:root:Tacotron: /home/rajivratn/kush/interspeech19-stage/ppg2speech-si-am-si-tacotron-clb2zhaa-final/tacotron_checkpoint_19200
+DEBUG:root:Waveglow: /home/rajivratn/kush/interspeech19-stage/ppg2speech-si-am-si-tacotron-clb2zhaa-final/waveglow_277500
+DEBUG:root:AM: SI model
+DEBUG:root:is_clip: 0
+DEBUG:root:Fs: 16000
+DEBUG:root:Sigma: 0.600000
+DEBUG:root:Denoiser strength: 0.005000
+DEBUG:root:Denoiser mode: zeros
+INFO:root:Perform AC on /home/rajivratn/kaushal/sample-audio/temp/myfile.wav
+INFO:root:Output dir: /home/rajivratn/kaushal/output_dir/
+DEBUG:root:Tacotron: /home/rajivratn/kush/interspeech19-stage/ppg2speech-si-am-si-tacotron-clb2zhaa-final/tacotron_checkpoint_19200
+DEBUG:root:Waveglow: /home/rajivratn/kush/interspeech19-stage/ppg2speech-si-am-si-tacotron-clb2zhaa-final/waveglow_277500
+DEBUG:root:AM: SI model
+DEBUG:root:is_clip: 0
+DEBUG:root:Fs: 16000
+DEBUG:root:Sigma: 0.600000
+DEBUG:root:Denoiser strength: 0.005000
+DEBUG:root:Denoiser mode: zeros
+INFO:root:Perform AC on /home/rajivratn/kaushal/sample-audio/temp/myfile.wav
+INFO:root:Output dir: /home/rajivratn/kaushal/output_dir/
+DEBUG:root:Tacotron: /home/rajivratn/kush/interspeech19-stage/ppg2speech-si-am-si-tacotron-clb2zhaa-final/tacotron_checkpoint_19200
+DEBUG:root:Waveglow: /home/rajivratn/kush/interspeech19-stage/ppg2speech-si-am-si-tacotron-clb2zhaa-final/waveglow_277500
+DEBUG:root:AM: SI model
+DEBUG:root:is_clip: 0
+DEBUG:root:Fs: 16000
+DEBUG:root:Sigma: 0.600000
+DEBUG:root:Denoiser strength: 0.005000
+DEBUG:root:Denoiser mode: zeros
+INFO:root:Perform AC on /home/rajivratn/kaushal/sample-audio/temp/myfile.wav
+INFO:root:Output dir: /home/rajivratn/kaushal/output_dir/
+DEBUG:root:Tacotron: /home/rajivratn/kush/interspeech19-stage/ppg2speech-si-am-si-tacotron-clb2zhaa-final/tacotron_checkpoint_19200
+DEBUG:root:Waveglow: /home/rajivratn/kush/interspeech19-stage/ppg2speech-si-am-si-tacotron-clb2zhaa-final/waveglow_277500
+DEBUG:root:AM: SI model
+DEBUG:root:is_clip: 0
+DEBUG:root:Fs: 16000
+DEBUG:root:Sigma: 0.600000
+DEBUG:root:Denoiser strength: 0.005000
+DEBUG:root:Denoiser mode: zeros
+INFO:root:Perform AC on /home/rajivratn/kaushal/sample-audio/temp/myfile.wav
+INFO:root:Done!
